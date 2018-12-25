@@ -1,0 +1,2 @@
+pygame==1.9.4
+opencv-python==3.4.4.19
