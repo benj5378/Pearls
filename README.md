@@ -14,9 +14,9 @@ Pearls is a program making a pearl layout from a picture. The idea is, that you 
 
 ## How to use?
 
-You can use drag around with the mouse and use <kbd>←</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> and <kbd>↓</kbd> to move around.
-You can use the mouse wheel, <kbd>+</kbd> and <kbd>-</kbd> to zoom in and out.
-By pressing <kbd>?</kbd> and typing a coordinate, you can get a specific pearl color. For intance press <kbd>?</kbd>, type `23, 12`, press <kbd>Enter</kbd> and you should see the pearl color in the terminal: `[12, 2] = [185 107  60] = Hama midi Nougat mørk`.
-If you would like to use another image than the default image, replace the image `final 3 s.png` in `./assets/` with another one.
+- You can use drag around with the mouse and use <kbd>←</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> and <kbd>↓</kbd> to move around.
+- You can use the mouse wheel, <kbd>+</kbd> and <kbd>-</kbd> to zoom in and out.
+- By pressing <kbd>?</kbd> and typing a coordinate, you can get a specific pearl color. For intance press <kbd>?</kbd>, type `23, 12`, press <kbd>Enter</kbd> and you should see the pearl color in the terminal: `[12, 2] = [185 107  60] = Hama midi Nougat mørk`.
+- If you would like to use another image than the default image, replace the image `final 3 s.png` in `./assets/` with another one.
 
 ![screenshot](https://user-images.githubusercontent.com/12400097/172066882-9474e9cf-6a46-4804-8702-3bf84b9739f2.png)
