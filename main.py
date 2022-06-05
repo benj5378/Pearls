@@ -378,7 +378,7 @@ while not quit:
     
     if updateFontSurf:
         # Update font surface
-        temp = pygame.font.Font("Calibri", fontSize)
+        temp = pygame.font.SysFont("Calibri", fontSize)
         creditSurf = temp.render("Copyright 2018 Benjamin Sayoc", False, (0, 0, 0), (255, 255, 255))
         updateFontSurf = False
     screen.blit(creditSurf, (margin[0] * 2, SCREEN_HEIGHT - fontSize - boxMargin[1]))
